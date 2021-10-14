@@ -7,7 +7,7 @@ The demo is made to run on GCP based services representing:
 - A hadoop cluster (via DataProc) supporting Spark and Flink
 - Kubernetes cluster (via GKE) supporting Flink via the [Flink K8s operator](https://github.com/GoogleCloudPlatform/flink-on-k8s-operator)
 
-![Alt text](/repo-assets/diagram.png?raw=true "Diagram")
+![Alt text](https://raw.githubusercontent.com/aymanfarhat/professional-services/features/beam-anywhere/examples/beam-anywhere/repo-assets/diagram.png "Diagram")
 
 ## About the demo
 
